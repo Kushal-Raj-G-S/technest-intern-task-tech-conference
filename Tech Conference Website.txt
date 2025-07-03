@@ -1,0 +1,35 @@
+Project Requirements:
+
+1. Tech Stack:
+    - SvelteKit
+    - Sveltestrap (Optional)
+    - JavaScript
+    - Responsive Design 
+
+2. Pages to Implement:
+    - Home Page:
+        - A hero section with the conference name, tagline, and a “Register Now” button.
+        - A featured section highlighting keynote speakers (with images, names, and titles).
+
+    - Speakers Page:
+        - A grid layout showcasing all speakers with their names, images, titles, and short bios.
+    
+    - Schedule Page:
+        - A structured timetable of the conference sessions (date, time, topic, speaker).
+
+    - Sponsors Page:
+        - List of sponsors with logos and links.
+
+    - About Page:
+        - A brief introduction to the conference.
+
+    - Contact Page:
+        - A simple contact form (Name, Email, Message).
+        - Social media links.
+
+3. Bonus Features (Optional):
+    - Dark Mode Toggle
+    - A countdown timer for the event on home page.
+    - Tabs or buttons to filter sessions by day or track on schedule page.
+    - Different sponsor tiers on sponsors page (e.g., Gold, Silver, Bronze).
+    - Location details with an embedded Google Map.
